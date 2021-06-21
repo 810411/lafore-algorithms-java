@@ -4,3 +4,4 @@
 - [Простая сортировка (Simple sorting)](./src/SimpleSorting)
 - [Стеки и очереди (Stacks and Queues)](./src/StacksAndQueues)
 - [Связные списки (Linked Lists)](./src/LinkedLists)
+- [Рекурсия (Recursion)](./src/Recursion)
