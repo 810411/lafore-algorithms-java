@@ -4,6 +4,7 @@ package LinkedLists;
 public class Link {
     public int i;
     public Link next;
+    public Link prev;
 
     public Link(int i) {
         this.i = i;
