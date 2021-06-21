@@ -45,6 +45,35 @@ public class Test {
             System.out.print(pq.remove() + " "); // 10 20 30 40 50
         }
         System.out.println();
+
+        // Пример с деком
+        Deque deque = new Deque(5);
+        deque.insertRight(10);
+        deque.insertRight(20);
+        deque.insertRight(30);
+        deque.insertRight(40);
+        deque.insertRight(50);
+        deque.removeRight();
+        deque.removeRight();
+        deque.insertLeft(20);
+        deque.insertLeft(10);
+
+        while (!deque.isEmpty()) {
+            System.out.print(deque.removeLeft() + " "); // 50 40 30 20 10
+        }
+        System.out.println();
+
+        // Пример со стеком из дека
+        StackFromDeque stackD = new StackFromDeque(10);
+        stackD.push(20);
+        stackD.push(40);
+        stackD.push(60);
+        stackD.push(80);
+
+        while (!stackD.isEmpty()) {
+            System.out.print(stackD.pop() + " "); // 80 60 40 20
+        }
+        System.out.println();
     }
 
 }
