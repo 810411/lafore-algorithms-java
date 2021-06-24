@@ -1,5 +1,7 @@
 package SimpleSorting;
 
+import Common.Utils;
+
 // Пузырьковая сортировка (O(n^2))
 public class BubbleSort {
     public static void sort(int[] arr) {

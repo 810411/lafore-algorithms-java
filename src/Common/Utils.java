@@ -1,4 +1,4 @@
-package SimpleSorting;
+package Common;
 
 import java.util.Random;
 

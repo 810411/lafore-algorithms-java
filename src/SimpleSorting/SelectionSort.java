@@ -1,5 +1,7 @@
 package SimpleSorting;
 
+import Common.Utils;
+
 // Сортировка методом выбора (O(n^2))
 public class SelectionSort {
     public static void sort(int[] arr) {

@@ -1,5 +1,7 @@
 package SimpleSorting;
 
+import Common.Utils;
+
 // Пузырьковая сортировка со встряхиванием
 public class BubbleShakeSort {
     public static void sort(int[] arr) {
