@@ -6,3 +6,4 @@
 - [Связные списки (Linked Lists)](./src/LinkedLists)
 - [Рекурсия (Recursion)](./src/Recursion)
 - [Нетривиальная сортировка (Advanced sorting)](./src/AdvancedSorting)
+- [Двоичные деревья (Binary Trees)](./src/BinaryTrees)
