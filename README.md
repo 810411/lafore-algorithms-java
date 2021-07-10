@@ -8,3 +8,4 @@
 - [Нетривиальная сортировка (Advanced sorting)](./src/AdvancedSorting)
 - [Двоичные деревья (Binary Trees)](./src/BinaryTrees)
 - [Деревья 2-3-4 (2-3-4 Trees)](./src/Trees234)
+- [Хеш-таблицы (Hash Tables)](./src/HashTables)
