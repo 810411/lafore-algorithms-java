@@ -11,3 +11,4 @@
 - [Хеш-таблицы (Hash Tables)](./src/HashTables)
 - [Пирамиды (Heaps)](./src/Heaps)
 - [Графы (Graphs)](./src/Graphs)
+- [Взвешенные графы (Weighted Graphs)](./src/WeightedGraphs)
